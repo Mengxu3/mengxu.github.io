@@ -1,38 +1,37 @@
 # 你的个人信息 (Personal information)
-[cite_start]name: Mengxu YUAN [cite: 1]
-label: PhD Candidate | [cite_start]Department of Mathematics [cite: 7]
-picture: /img/profile-picture.jpg # <--- 需要你补充
-[cite_start]email: myuan89@uwo.ca [cite: 2]
-[cite_start]phone: "+1-437-661-3920" [cite: 3]
-[cite_start]department: Department of Mathematics [cite: 7]
-[cite_start]institution: University of Western Ontario, London, ON [cite: 7]
+name: Mengxu YUAN
+label: PhD Candidate | Department of Mathematics
+picture: /img/profile-picture.jpg # <--- 仍然需要你补充
+email: myuan89@uwo.ca
+phone: "+1-437-661-3920"
+department: Department of Mathematics
+institution: University of Western Ontario, London, ON
 
 # 你的邮寄地址 (Mailing address)
-# (你可以留空，或者填写UWO数学系的公开地址)
 mailing_address: >
-  # 例如: Middlesex College
-  # 1151 Richmond St
-  # London, ON N6A 5B7 # <--- 需要你补充
+  MC 102, Middlesex College
+  1151 Richmond St
+  London, ON N6A 5B7
 
 # 你的社交/学术网络链接 (Social media profiles)
 profiles:
   -
     network: LinkedIn
     username: mengxu-yuan
-    [cite_start]url: https://www.linkedin.com/in/mengxu-yuan [cite: 4]
+    url: https://www.linkedin.com/in/mengxu-yuan
   -
     network: Google Scholar
-    username: # <--- 需要你补充
-    url: # <--- 需要你补充 (例如: http://scholar.google.com/...)
+    username: # <--- 仍然需要你补充
+    url: # <--- 仍然需要你补充 (例如: http://scholar.google.com/...)
   # -
   #   network: Twitter
-  #   username: # <--- 需要你补充
-  #   url: # <--- 需要你补充
+  #   username: # <--- 仍然需要你补充
+  #   url: # <--- 仍然需要你补充
 
 # 网站首页的个人简介 (Introduction)
 intro:
   title: Hello!
   body: >
-    I am a PhD student in the Department of Mathematics at the University of Western Ontario[cite: 7].
-    My supervisor is Dr. Hristo Sendov[cite: 7].
-    I completed my M.Sc. in Pure Mathematics at Western (2024-2025) [cite: 9] and my B.Sc. in Information and Computing Science at Wuhan University of Technology (2020-2024)[cite: 12, 13].
+    I am a PhD student in the Department of Mathematics at the University of Western Ontario.
+    My supervisor is Dr. Hristo Sendov.
+    I completed my M.Sc. in Pure Mathematics at Western (2024-2025) and my B.Sc. in Information and Computing Science at Wuhan University of Technology (2020-2024).
