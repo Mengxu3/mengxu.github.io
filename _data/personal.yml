@@ -1,6 +1,6 @@
 name: Mengxu YUAN
 label: PhD student | Department of Mathematics
-picture: /img/profile-picture.jpg
+picture: /img/profile-picture.jpg # <--- 仍然需要你补充
 email: myuan89@uwo.ca
 phone: " "
 department: Department of Mathematics
@@ -10,6 +10,9 @@ mailing_address: >
   MC 102, Middlesex College, 1151 Richmond St, London, ON N6A 3K7
 
 profiles:
+  - network: CV
+    username: Download
+    url: /files/CV_Mengxu.pdf
   - network: LinkedIn
     username: mengxu-yuan
     url: https://www.linkedin.com/in/mengxu-yuan
