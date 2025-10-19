@@ -1,32 +1,25 @@
-# 你的个人信息 (Personal information)
 name: Mengxu YUAN
 label: PhD student | Department of Mathematics
-picture: /img/profile-picture.jpg # <--- 仍然需要你补充
+picture: /img/profile-picture.jpg
 email: myuan89@uwo.ca
 phone: " "
 department: Department of Mathematics
 institution: University of Western Ontario, London, ON
 
-# 你的邮寄地址 (Mailing address)
 mailing_address: >
   MC 102, Middlesex College, 1151 Richmond St, London, ON N6A 3K7
 
-# 你的社交/学术网络链接 (Social media profiles)
 profiles:
--
-    network: LinkedIn
+  - network: LinkedIn
     username: mengxu-yuan
     url: https://www.linkedin.com/in/mengxu-yuan
-  -
-    network: Google Scholar
-    username: # <--- 仍然需要你补充
-    url: # <--- 仍然需要你补充 (例如: http://scholar.google.com/...)
-  # -
-  #   network: Twitter
-  #   username: # <--- 仍然需要你补充
-  #   url: # <--- 仍然需要你补充
+  - network: Google Scholar
+    username: # Add your Google Scholar username here
+    url: # Add your Google Scholar URL here
+  # - network: Twitter
+  #   username: # Add your Twitter username here
+  #   url: # Add your Twitter URL here
 
-# 网站首页的个人简介 (Introduction)
 intro:
   title: Hello!
   body: >
